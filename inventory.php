@@ -176,12 +176,9 @@ if(isset($_POST['remove'])){
 <head>
   <meta charset="UTF-8">
 
-  <!-- Latest compiled and minified CSS -->
-  <link rel="stylesheet" href="./index_style.css">
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.min.js"></script>
+
     
-  <link rel="stylesheet" href="./css/style2.css">
-  <link rel="stylesheet" href="./index_style.css">
+
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
